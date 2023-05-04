@@ -1,7 +1,9 @@
  # André Peixoto
 
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andpeicunha)](https://www.linkedin.com/in/andpeicunha)
 &nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://portfolio-andrepeixoto.vercel.app)
 <!--
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139&link=https://portfolio-andrepeixoto.vercel.app)
 &nbsp;
