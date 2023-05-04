@@ -42,7 +42,6 @@ I have worked on projects for large companies and multinationals in the Retail, 
 ![NextJs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
 ![Jest](https://img.shields.io/badge/Jest-cdcdcd?style=for-the-badge&logo=jest&logoColor=red&color=yellow)&nbsp;
 ![Cypress](https://img.shields.io/badge/-Cypress-EA5E5E?style=for-the-badge&logoColor=fff&logo=cypress)&nbsp;
-![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-18BCEE?style=for-the-badge&logoColor=fff&logo=express)&nbsp;
 ![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=for-the-badge&logoColor=fff&logo=eslint)&nbsp;
@@ -61,7 +60,9 @@ I have worked on projects for large companies and multinationals in the Retail, 
 ## 📚 Studying: <br/>
 
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+![Express](https://img.shields.io/badge/-Express-18BCEE?style=for-the-badge&logoColor=fff&logo=express)&nbsp;
+![Phyton](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 <br />
 
 ## 📚 Projects: <br/>
