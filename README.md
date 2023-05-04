@@ -32,7 +32,7 @@ I have worked on projects for large companies and multinationals in the Retail, 
 - 🔭 I’m currently working on JavaScript/Typescript, React/Next.js and Node apps/systems
 - 🌱 I’m currently learning NodeJs + Express and React Native
 
-💻 📱 &nbsp; Skills: <br/>
+## 💻 Skills: <br/>
 
 ![HTML](https://img.shields.io/badge/-HTML-E44D25?style=for-the-badge&logoColor=fff&logo=html5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-254DE6?style=for-the-badge&logoColor=fff&logo=css3)&nbsp;
@@ -58,27 +58,24 @@ I have worked on projects for large companies and multinationals in the Retail, 
 ![](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 <!--![](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)-->
 
-📚 &nbsp; Studying: <br/>
+## 📚 Studying: <br/>
 
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 <br />
 
-📚 &nbsp; Projects: <br/>
+## 📚 Projects: <br/>
 
-Rick and Morty API - [Visit](https://green-test-rho.vercel.app/)
+**WPP Sender<br/>** *[development]* <br/>
+*Back End project in NodeJs for user login and message queue management in Whatsapp <br/>*
+[GitHub](https://github.com/andpeicunha/wpp-send)
 
-<!--
-**andpeicunha/andpeicunha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ClientX** *[development]* <br/>
+*Project in NextJs that manages the customer base and manages messages sent by Whatsapp.<br/>
 
-Here are some ideas to get you started:
+**Rick and Morty API** 
+<br/>
+*Built on NextJs (Typescript) and Styled Component (responsive). Allows you to search for Rick and Morty characters through an API query using infiniteQuery from the React Query library. The user has the option to save characters as favorites, with the data being stored in localStorage.*
+<br/>
+[Visit Preview](https://green-test-rho.vercel.app/) | [GitHub](https://github.com/andpeicunha/rick-morty-api)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
