@@ -66,12 +66,12 @@ I have worked on projects for large companies and multinationals in the Retail, 
 
 ## 📚 Projects: <br/>
 
-**WPP Sender<br/>** *[development]* <br/>
+**WPP Sender** *[development]* <br/>
 *Back End project in NodeJs for user login and message queue management in Whatsapp <br/>*
 [GitHub](https://github.com/andpeicunha/wpp-send)
 
 **ClientX** *[development]* <br/>
-*Project in NextJs that manages the customer base and manages messages sent by Whatsapp.<br/>
+*Project in NextJs that manages the customer base and manages messages sent by Whatsapp.* <br/>
 
 **Rick and Morty API** 
 <br/>
