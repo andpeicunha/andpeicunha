@@ -73,7 +73,7 @@ I have worked on projects for large companies and multinationals in the Retail, 
 [GitHub](https://github.com/andpeicunha/wpp-send)
 
 **ClientX** *[development]* <br/>
-*Project in NextJs that manages the customer base and manages messages sent by Whatsapp.* <br/>
+*Project in Next with Typescript for sending messages via WhatsApp to customers. Free platform for micro and small businesses.* <br/>
 
 **Rick and Morty API** 
 <br/>
