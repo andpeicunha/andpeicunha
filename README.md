@@ -34,32 +34,84 @@ I have worked on projects for large companies and multinationals in the Retail, 
 - 🔭 I’m currently working on JavaScript/Typescript, React/Next.js and Node apps/systems
 - 🌱 I’m currently learning NodeJs + Express and React Native
 
-## 💻 Skills: <br/>
+<br/>
+<h3 align="left">
+   <strong>🛠️ Stacks</strong>
+</h3>
+
+<h4 align="left">
+   <strong>👩‍💻 Languages</strong>
+</h4>
+<span/>
 
 ![HTML](https://img.shields.io/badge/-HTML-E44D25?style=for-the-badge&logoColor=fff&logo=html5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-254DE6?style=for-the-badge&logoColor=fff&logo=css3)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![TypeScript](https://img.shields.io/badge/typescript%20-%23007acc.svg?&style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+
+<h4 align="left">
+   <strong>🚀 Framework and Web Tools</strong>
+</h4>
+<span/>
+
 ![ReactJs](https://img.shields.io/badge/-React.js-18BCEE?style=for-the-badge&logoColor=fff&logo=react)&nbsp;
 ![NextJs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)&nbsp;
-![Jest](https://img.shields.io/badge/Jest-cdcdcd?style=for-the-badge&logo=jest&logoColor=red&color=yellow)&nbsp;
-![Cypress](https://img.shields.io/badge/-Cypress-EA5E5E?style=for-the-badge&logoColor=fff&logo=cypress)&nbsp;
-![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
-![Express](https://img.shields.io/badge/-Express-18BCEE?style=for-the-badge&logoColor=fff&logo=express)&nbsp;
-![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=for-the-badge&logoColor=fff&logo=eslint)&nbsp;
-![Prettier](https://img.shields.io/badge/-Prettier-EA5E5E?style=for-the-badge&logoColor=fff&logo=prettier)&nbsp;
 ![GithubActions](https://img.shields.io/badge/Github-Actions-61dafb?style=for-the-badge&logo=github&logoColor=white&color=282c34)&nbsp;
 ![Babel](https://img.shields.io/badge/Babel-61dafb?style=for-the-badge&logo=babel&logoColor=yellow&color=282c34)&nbsp;
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;
+
+<h4 align="left">
+   <strong>🧐 Linters</strong>
+</h4>
+<span/>
+
+![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=for-the-badge&logoColor=fff&logo=eslint)&nbsp;
+![Prettier](https://img.shields.io/badge/-Prettier-EA5E5E?style=for-the-badge&logoColor=fff&logo=prettier)&nbsp;
+
+
+<h4 align="left">
+   <strong>🎨 Framework Design</strong>
+</h4>
+<span/>
+
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
 ![Styled-Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)&nbsp;
 ![MaterialUI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)&nbsp;
-![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)&nbsp;
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
 
-<!--![](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)-->
+<h4 align="left">
+   <strong>⚡ Databases</strong>
+</h4>
+<span/>
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+![Postgree](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+
+<h4 align="left">
+   <strong>🔚 BackEnd</strong>
+</h4>
+<span/>
+
+![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+![Express](https://img.shields.io/badge/-Express-18BCEE?style=for-the-badge&logoColor=fff&logo=express)&nbsp;
+
+<h4 align="left">
+   <strong>🧪 Tests</strong>
+</h4>
+<span/>
+
+![Jest](https://img.shields.io/badge/Jest-cdcdcd?style=for-the-badge&logo=jest&logoColor=red&color=yellow)&nbsp;
+![Cypress](https://img.shields.io/badge/-Cypress-EA5E5E?style=for-the-badge&logoColor=fff&logo=cypress)&nbsp;
+
+<h4 align="left">
+   <strong>☁️ Cloud</strong>
+</h4>
+<span/>
+
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;
+
 
 ## 📚 Studying: <br/>
 
