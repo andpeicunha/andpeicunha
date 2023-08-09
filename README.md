@@ -31,7 +31,7 @@ I am a developer passionate about design, but also a designer passionate about d
 
 I have worked on projects for large companies and multinationals in the Retail, Industry, Commerce, Services, and Banking sectors.
 
-- 🔭 I’m currently working on JavaScript/Typescript, React/Next.js and Node apps/systems
+- 🔭 I'm currently working at [Trinca](https://trin.ca/) on React/NextJs, Typescript, Jest, Tailwind and Styled Components
 - 🌱 I’m currently learning NodeJs + Express and React Native
 
 <br/>
