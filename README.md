@@ -113,15 +113,13 @@ I have worked on projects for large companies and multinationals in the Retail, 
 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;
 
-## 📚 Studying: <br/>
-
+## 📚 Studying: 
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-18BCEE?style=for-the-badge&logoColor=fff&logo=express)&nbsp;
 <br />
 
-## 📚 Projects: <br/>
-
+## 📚 Projects: 
 **WPP Sender** _[development]_ <br/>
 _Back End project in NodeJs for user login and message queue management in Whatsapp <br/>_
 [GitHub](https://github.com/andpeicunha/wpp-send)
