@@ -26,14 +26,11 @@ const importantLinks = {
 
 Hi, my name is André Peixoto!
 
-More than 7 years in Front-End development and over 4 years in projects with React and NextJs. An expert in functional and modern interfaces.
+With over 10 years of experience in software development, including more than 4 years working with React and NextJs, I consider myself an expert in creating functional and modern interfaces.
 
-I am a developer passionate about design, but also a designer passionate about development. This allows me to understand user needs and create solutions that are attractive, but primarily functional. My focus is on experience and usability.
+Throughout my career, I've had the privilege of working on projects for large companies and multinationals in various sectors, including Retail, Industry, Commerce, Services, and Banking.
 
-I have worked on projects for large companies and multinationals in the Retail, Industry, Commerce, Services, and Banking sectors.
-
-- 🔭 I'm currently working at [Trinca](https://trin.ca/) on React/NextJs, Typescript, Jest, TailwindCSS and Styled Components
-- 🌱 I’m currently learning React Native
+- 🔭 I'm currently working at [Trinca](https://trin.ca/) on React/NextJs, Typescript, JavaScript, Jest, Design System, TailwindCSS and Styled Components.
 
 <br/>
 <h3 align="left">
@@ -113,13 +110,16 @@ I have worked on projects for large companies and multinationals in the Retail, 
 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;
 
-## 📚 Studying: 
+## 📚 Studying:
+
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-18BCEE?style=for-the-badge&logoColor=fff&logo=express)&nbsp;
 <br />
 
-## 📚 Projects: 
+<!--
+## 📚 Projects: <br/>
+
 **WPP Sender** _[development]_ <br/>
 _Back End project in NodeJs for user login and message queue management in Whatsapp <br/>_
 [GitHub](https://github.com/andpeicunha/wpp-send)
@@ -132,3 +132,4 @@ _Project in Next with Typescript for sending messages via WhatsApp to customers.
 _Built on NextJs (Typescript) and Styled Component (responsive). Allows you to search for Rick and Morty characters through an API query using infiniteQuery from the React Query library. The user has the option to save characters as favorites, with the data being stored in localStorage._
 <br/>
 [Visit Preview](https://green-test-rho.vercel.app/) | [GitHub](https://github.com/andpeicunha/rick-morty-api)
+-->
