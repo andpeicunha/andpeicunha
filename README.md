@@ -2,17 +2,15 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andpeicunha)](https://www.linkedin.com/in/andpeicunha)
 &nbsp;
+[![Articles](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/andpeicunha)
+&nbsp;
 [![Portfólio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://portfolio-andrepeixoto.vercel.app)
 &nbsp;
-[![Articles](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/andpeicunha)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-2DB540?style=for-the-badge&labelColor=whatsapp&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511977373258&text=Olá%20André!%20Vi%20seu%20perfil%20no%20Github%20e%20gostaria%20de%20entrar%20em%20contato%20com%20você)](https://api.whatsapp.com/send?phone=5511977373258&text=Olá%20André!%20Vi%20seu%20perfil%20no%20Github%20e%20gostaria%20de%20entrar%20em%20contato%20com%20você)
 
 <!--
 &nbsp;
 [![Portfólio - Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/andrepeixoto3f5f)
-![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139&link=https://portfolio-andrepeixoto.vercel.app)
-&nbsp;
-![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
-&nbsp;
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-2DB540?style=for-the-badge&labelColor=whatsapp&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511953121823&text=Olá%20Júlio!%20Vi%20seu%20perfil%20no%20Github%20e%20gostaria%20de%20entrar%20em%20contato%20com%20você)](https://api.whatsapp.com/send?phone=5511953121823&text=Olá%20Júlio!%20Vi%20seu%20perfil%20no%20Github%20e%20gostaria%20de%20entrar%20em%20contato%20com%20você)&nbsp;
 -->
 
@@ -24,20 +22,25 @@ const importantLinks = {
 }
 ```
 
-## Hi 👋,
+## Olá 👋,
 
-Hi, my name is André Peixoto!
+Tenho mais de 15 anos de experiência em desenvolvimento de software e também Design UI/UX, desde 2020 tenho trabalhado especificamente com React, NextJs, Vite. Sou especialista na criação de interfaces funcionais, hooks, states, unit tests e todo universo de stacks dos frameworks modernos.
 
-With over 10 years of experience in software development, including more than 4 years working with React and NextJs, I consider myself an expert in creating functional and modern interfaces.
+Ao longo da minha carreira, tive o privilégio de trabalhar em projetos para grandes empresas e multinacionais de diversos setores, incluindo Varejo, Indústria, Comércio, Serviços e Bancário, foram muitos projetos B2B e B2C.
 
-Throughout my career, I've had the privilege of working on projects for large companies and multinationals in various sectors, including Retail, Industry, Commerce, Services, and Banking.
+<details>
+<summary><i>Resume in English</i></summary>
 
-- 🔭 I'm currently working at [Trinca](https://trin.ca/) on React/NextJs, Typescript, JavaScript, Jest, Design System, TailwindCSS and Styled Components.
+_I have more than 15 years of experience in software development and also UI/UX Design, since 2020 I have worked specifically with React, NextJs, Vite. I specialize in creating functional interfaces, hooks, states, unit tests and the entire stack universe of modern frameworks._
+
+_Throughout my career, I have had the privilege of working on projects for large companies and multinationals from different sectors, including Retail, Industry, Commerce, Services and Banking, there were many B2B and B2C projects._
+
+</details>
 
 <br/>
-<h3 align="left">
-   <strong>🛠️ Stacks</strong>
-</h3>
+
+<details>
+<summary><strong>🛠️ Stacks</strong></summary>
 
 <h4 align="left">
    <strong>👩‍💻 Languages</strong>
@@ -57,10 +60,15 @@ Throughout my career, I've had the privilege of working on projects for large co
 
 ![ReactJs](https://img.shields.io/badge/-React.js-18BCEE?style=for-the-badge&logoColor=fff&logo=react)&nbsp;
 ![NextJs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)&nbsp;
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![Babel](https://img.shields.io/badge/Babel-61dafb?style=for-the-badge&logo=babel&logoColor=yellow&color=282c34)&nbsp;
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react)&nbsp;
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)&nbsp;
+![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)&nbsp;
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)&nbsp;
+![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)&nbsp;
 
 <h4 align="left">
    <strong>🧐 Linters</strong>
@@ -111,6 +119,8 @@ Throughout my career, I've had the privilege of working on projects for large co
 <span/>
 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;
+
+</details>
 
 ## 📚 Studying:
 
