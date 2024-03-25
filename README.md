@@ -24,16 +24,16 @@ const importantLinks = {
 
 ## Olá 👋,
 
-Tenho mais de 15 anos de experiência em desenvolvimento de software e também Design UI/UX, desde 2020 tenho trabalhado especificamente com React, NextJs, Vite. Sou especialista na criação de interfaces funcionais, hooks, states, unit tests e todo universo de stacks dos frameworks modernos.
+São mais de 15 anos de experiência em desenvolvimento web e Design UI/UX, desde 2020 trabalhado especificamente com React, NextJs e Vite. Sou especialista na criação de interfaces funcionais, unit tests, hooks, states e todo universo de stacks dos frameworks modernos.
 
 Ao longo da minha carreira, tive o privilégio de trabalhar em projetos para grandes empresas e multinacionais de diversos setores, incluindo Varejo, Indústria, Comércio, Serviços e Bancário, foram muitos projetos B2B e B2C.
 
 <details>
 <summary><i>Resume in English</i></summary>
 
-_I have more than 15 years of experience in software development and also UI/UX Design, since 2020 I have worked specifically with React, NextJs, Vite. I specialize in creating functional interfaces, hooks, states, unit tests and the entire stack universe of modern frameworks._
+_I have over 15 years of experience in web development and UI/UX design, since 2020 specifically working with React, Next.js, and Vite. I specialize in creating functional interfaces, unit tests, hooks, states, and the entire universe of stacks in modern frameworks_
 
-_Throughout my career, I have had the privilege of working on projects for large companies and multinationals from different sectors, including Retail, Industry, Commerce, Services and Banking, there were many B2B and B2C projects._
+_Throughout my career, I've had the privilege of working on projects for large companies and multinational corporations from various sectors, including Retail, Industry, Commerce, Services, and Banking. There have been many B2B and B2C projects._
 
 </details>
 
@@ -69,6 +69,8 @@ _Throughout my career, I have had the privilege of working on projects for large
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)&nbsp;
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)&nbsp;
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)&nbsp;
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)&nbsp;
+![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react)
 
 <h4 align="left">
    <strong>🧐 Linters</strong>
@@ -119,6 +121,8 @@ _Throughout my career, I have had the privilege of working on projects for large
 <span/>
 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)&nbsp;
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
 
 </details>
 
