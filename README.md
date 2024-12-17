@@ -22,25 +22,32 @@ const importantLinks = {
 }
 ```
 
-## Olá 👋,
+## Hi 👋,
 
-São mais de 15 anos de experiência em desenvolvimento web e Design UI/UX, desde 2020 trabalhado especificamente com React, NextJs e Vite. Sou especialista na criação de interfaces funcionais, unit tests, hooks, states e todo universo de stacks dos frameworks modernos.
+With over 15 years of experience, in the last 5 years I have focused my studies, projects, and work on web applications using ReactJs, NextJs, and Vite, as well as mobile development with React Native.
 
-Ao longo da minha carreira, tive o privilégio de trabalhar em projetos para grandes empresas e multinacionais de diversos setores, incluindo Varejo, Indústria, Comércio, Serviços e Bancário, foram muitos projetos B2B e B2C.
+I have solid knowledge of frameworks like ReactJs, NextJs, and tools such as Vite, Turbo, Tsup, and ESbuild, using TypeScript and JavaScript. I also work as a consultant on React Native projects and design and manage CI/CD pipelines, focusing on Azure, in addition to having experience with Docker.
+
+My daily work also involves testing with Jest, Testing Library, and Cypress. I specialize in Tailwind (variants, merge, presets), Styled Components, Sass, and CSS.
+
+Furthermore, I am passionate about Design Systems, with extensive experience, including work on government projects in other countries, always focusing on simplicity, performance, usability, and modern, appropriate architectures.
 
 <details>
-<summary><i>Resume in English</i></summary>
-
-_I have over 15 years of experience in web development and UI/UX design, since 2020 specifically working with React, Next.js, and Vite. I specialize in creating functional interfaces, unit tests, hooks, states, and the entire universe of stacks in modern frameworks_
-
-_Throughout my career, I've had the privilege of working on projects for large companies and multinational corporations from various sectors, including Retail, Industry, Commerce, Services, and Banking. There have been many B2B and B2C projects._
-
+<summary><i>🇧🇷 Sobre mim</i></summary>
+<i>
+Com mais de 15 anos de experiência, nos últimos 5 anos tenho focado meus estudos, projetos e trabalho em aplicações web utilizando ReactJs, NextJs e Vite, além de desenvolvimento mobile com React Native.
+<br/><br/>
+Tenho um conhecimento sóido em frameworks como ReactJs, NextJs, e ferramentas como Vite, Turbo, Tsup e ESbuild, utilizando TypeScript e JavaScript. Também atuo como consultor em projetos com React Native e elaboro e gerencio pipelines de CI/CD, com foco no Azure, além de ter experiência com Docker.
+<br/><br/>
+Minha rotina também envolve a aplicação de testes com Jest, Testing Library e Cypress. Sou especialista em Tailwind (variants, merge, presets), Styled Components, Sass e CSS.
+<br/><br/>
+Além disso, sou um entusiasta em Design Systems, com ampla experiência, inclusive para projetos governamentais em outros países, sempre com com foco em simplicidade, performance, usabilidade e arquiteturas modernas e adequadas.
+</i>
 </details>
 
 <br/>
 
-<details>
-<summary><strong>🛠️ Stacks</strong></summary>
+<strong>🛠️ Stacks</strong>
 
 <h4 align="left">
    <strong>👩‍💻 Languages</strong>
@@ -52,6 +59,7 @@ _Throughout my career, I've had the privilege of working on projects for large c
 ![HTML](https://img.shields.io/badge/-HTML-E44D25?style=for-the-badge&logoColor=fff&logo=html5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-254DE6?style=for-the-badge&logoColor=fff&logo=css3)&nbsp;
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)&nbsp;
+![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
 
 <h4 align="left">
    <strong>🚀 Framework and Web Tools</strong>
@@ -67,10 +75,11 @@ _Throughout my career, I've had the privilege of working on projects for large c
 ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react)&nbsp;
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)&nbsp;
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)&nbsp;
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)&nbsp;
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)&nbsp;
 ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)&nbsp;
 ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)&nbsp;
+![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)&nbsp;
+![pnpm Badge](https://img.shields.io/badge/pnpm-F69220?logo=pnpm&style=for-the-badge&logoColor=white)&nbsp;
 
 <h4 align="left">
    <strong>🧐 Linters</strong>
@@ -81,14 +90,16 @@ _Throughout my career, I've had the privilege of working on projects for large c
 ![Prettier](https://img.shields.io/badge/-Prettier-EA5E5E?style=for-the-badge&logoColor=fff&logo=prettier)&nbsp;
 
 <h4 align="left">
-   <strong>🎨 Framework Design</strong>
+   <strong>🎨 Framework & Design</strong>
 </h4>
 <span/>
 
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
 ![Styled-Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)&nbsp;
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
+![shadcn/ui Badge](https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff&style=for-the-badge)&nbsp;
 ![MaterialUI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)&nbsp;
+![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge)
 
 <h4 align="left">
    <strong>⚡ Databases</strong>
@@ -111,9 +122,9 @@ _Throughout my career, I've had the privilege of working on projects for large c
 </h4>
 <span/>
 
-![Testing Library](https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red)&nbsp;
+![Testing Library Badge](https://img.shields.io/badge/Testing%20Library-E33332?logo=testinglibrary&logoColor=fff&style=for-the-badge)&nbsp;
 ![Jest](https://img.shields.io/badge/Jest-cdcdcd?style=for-the-badge&logo=jest&logoColor=red&color=yellow)&nbsp;
-![Cypress](https://img.shields.io/badge/-Cypress-EA5E5E?style=for-the-badge&logoColor=fff&logo=cypress)&nbsp;
+![Cypress Badge](https://img.shields.io/badge/Cypress-69D3A7?logo=cypress&logoColor=fff&style=for-the-badge)&nbsp;
 
 <h4 align="left">
    <strong>☁️ Cloud</strong>
@@ -124,13 +135,6 @@ _Throughout my career, I've had the privilege of working on projects for large c
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)&nbsp;
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
 
-</details>
-
-## 📚 Studying:
-
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
-![Express](https://img.shields.io/badge/-Express-18BCEE?style=for-the-badge&logoColor=fff&logo=express)&nbsp;
 <br />
 
 <!--
