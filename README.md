@@ -1,12 +1,16 @@
 # André Peixoto
 
+
+[![LinkTree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=Linktree&logoColor=white&link=https://linktr.ee/peixototiodev)](https://linktr.ee/peixototiodev)
+&nbsp;
+<!--
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andpeicunha)](https://www.linkedin.com/in/andpeicunha)
 &nbsp;
 [![Articles](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/andpeicunha)
 &nbsp;
-[![Portfólio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://portfolio-andrepeixoto.vercel.app)
-&nbsp;
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-2DB540?style=for-the-badge&labelColor=whatsapp&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511977373258&text=Olá%20André!%20Vi%20seu%20perfil%20no%20Github%20e%20gostaria%20de%20entrar%20em%20contato%20com%20você)](https://api.whatsapp.com/send?phone=5511977373258&text=Olá%20André!%20Vi%20seu%20perfil%20no%20Github%20e%20gostaria%20de%20entrar%20em%20contato%20com%20você)
+[![Portfólio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://portfolio-andrepeixoto.vercel.app)
+&nbsp;-->
 
 <!--
 &nbsp;
@@ -58,6 +62,7 @@ Além disso, sou um entusiasta em Design Systems, com ampla experiência, inclus
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-E44D25?style=for-the-badge&logoColor=fff&logo=html5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-254DE6?style=for-the-badge&logoColor=fff&logo=css3)&nbsp;
+![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)&nbsp;
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
 
