@@ -81,7 +81,7 @@ Além disso, sou um entusiasta em Design Systems, com ampla experiência, inclus
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)&nbsp;
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)&nbsp;
 ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)&nbsp;
-![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react)
+![Zustand](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)&nbsp;
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)&nbsp;
 ![pnpm Badge](https://img.shields.io/badge/pnpm-F69220?logo=pnpm&style=for-the-badge&logoColor=white)&nbsp;
@@ -121,6 +121,7 @@ Além disso, sou um entusiasta em Design Systems, com ampla experiência, inclus
 
 ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-18BCEE?style=for-the-badge&logoColor=fff&logo=express)&nbsp;
+
 
 <h4 align="left">
    <strong>🧪 Tests</strong>
