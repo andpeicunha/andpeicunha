@@ -26,26 +26,20 @@ const importantLinks = {
 }
 ```
 
-## Hi 👋,
+## Staff Engineer
 
-With over 15 years of experience, in the last 5 years I have focused my studies, projects, and work on web applications using ReactJs, NextJs, and Vite, as well as mobile development with React Native.
+I build web and mobile products with TypeScript, React, Next.js, React Native, and Node.js. With 15+ years of experience, I focus on frontend architecture, Design Systems, developer experience, testing, CI/CD, and practical AI-assisted workflows.
 
-I have solid knowledge of frameworks like ReactJs, NextJs, and tools such as Vite, Turbo, Tsup, and ESbuild, using TypeScript and JavaScript. I also work as a consultant on React Native projects and design and manage CI/CD pipelines, focusing on Azure, in addition to having experience with Docker.
-
-My daily work also involves testing with Jest, Testing Library, and Cypress. I specialize in Tailwind (variants, merge, presets), Styled Components, Sass, and CSS.
-
-Furthermore, I am passionate about Design Systems, with extensive experience, including work on government projects in other countries, always focusing on simplicity, performance, usability, and modern, appropriate architectures.
+I care about simplicity, performance, usability, and systems that are easy to evolve.
 
 <details>
 <summary><i>🇧🇷 Sobre mim</i></summary>
 <i>
-Com mais de 15 anos de experiência, nos últimos 5 anos tenho focado meus estudos, projetos e trabalho em aplicações web utilizando ReactJs, NextJs e Vite, além de desenvolvimento mobile com React Native.
+Staff Engineer com mais de 15 anos de experiência na construção de produtos web e mobile com TypeScript, React, Next.js, React Native e Node.js.
 <br/><br/>
-Tenho um conhecimento sóido em frameworks como ReactJs, NextJs, e ferramentas como Vite, Turbo, Tsup e ESbuild, utilizando TypeScript e JavaScript. Também atuo como consultor em projetos com React Native e elaboro e gerencio pipelines de CI/CD, com foco no Azure, além de ter experiência com Docker.
+Atuo com arquitetura frontend, Design Systems, experiência de desenvolvimento, testes, CI/CD e fluxos práticos de engenharia assistida por IA.
 <br/><br/>
-Minha rotina também envolve a aplicação de testes com Jest, Testing Library e Cypress. Sou especialista em Tailwind (variants, merge, presets), Styled Components, Sass e CSS.
-<br/><br/>
-Além disso, sou um entusiasta em Design Systems, com ampla experiência, inclusive para projetos governamentais em outros países, sempre com com foco em simplicidade, performance, usabilidade e arquiteturas modernas e adequadas.
+Valorizo simplicidade, performance, usabilidade e sistemas fáceis de evoluir.
 </i>
 </details>
 
