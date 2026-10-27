@@ -26,20 +26,22 @@ const importantLinks = {
 }
 ```
 
-## Staff Engineer
+## Staff Software Engineer & Frontend Architect
 
-I build web and mobile products with TypeScript, React, Next.js, React Native, and Node.js. With 15+ years of experience, I focus on frontend architecture, Design Systems, developer experience, testing, CI/CD, and practical AI-assisted workflows.
+Staff Software Engineer and Frontend Architect with 15+ years of experience building web, mobile, and backend products.
 
-I care about simplicity, performance, usability, and systems that are easy to evolve.
+I define the architecture and technical direction of platforms that help teams deliver independently, with quality and consistency. My work connects engineering decisions with the needs of Product and Operations.
+
+My main areas are frontend platforms, microfrontends, Design Systems, identity, developer experience, and tooling for AI agents. I also build and contribute to backend services using Go, Node.js, NestJS, and Python.
 
 <details>
 <summary><i>🇧🇷 Sobre mim</i></summary>
 <i>
-Staff Engineer com mais de 15 anos de experiência na construção de produtos web e mobile com TypeScript, React, Next.js, React Native e Node.js.
+Staff Software Engineer e Frontend Architect com mais de 15 anos de experiência construindo produtos web, mobile e backend.
 <br/><br/>
-Atuo com arquitetura frontend, Design Systems, experiência de desenvolvimento, testes, CI/CD e fluxos práticos de engenharia assistida por IA.
+Defino a arquitetura e a direção técnica de plataformas que ajudam times a entregar com autonomia, qualidade e consistência. Meu trabalho conecta decisões de engenharia às necessidades de Produto e Operações.
 <br/><br/>
-Valorizo simplicidade, performance, usabilidade e sistemas fáceis de evoluir.
+Minhas principais áreas são plataformas frontend, microfrontends, Design Systems, identidade, developer experience e tooling para agentes de IA. Também construo e contribuo com serviços backend usando Go, Node.js, NestJS e Python.
 </i>
 </details>
 
@@ -57,6 +59,7 @@ Valorizo simplicidade, performance, usabilidade e sistemas fáceis de evoluir.
 ![HTML](https://img.shields.io/badge/-HTML-E44D25?style=for-the-badge&logoColor=fff&logo=html5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-254DE6?style=for-the-badge&logoColor=fff&logo=css3)&nbsp;
 ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)&nbsp;
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)&nbsp;
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
 
@@ -114,7 +117,10 @@ Valorizo simplicidade, performance, usabilidade e sistemas fáceis de evoluir.
 <span/>
 
 ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-18BCEE?style=for-the-badge&logoColor=fff&logo=express)&nbsp;
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 
 
 <h4 align="left">
