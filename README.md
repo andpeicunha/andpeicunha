@@ -1,28 +1,10 @@
 # André Peixoto
 
-
-[![LinkTree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=Linktree&logoColor=white&link=https://linktr.ee/peixototiodev)](https://linktr.ee/peixototiodev)
-&nbsp;
-<!--
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andpeicunha)](https://www.linkedin.com/in/andpeicunha)
-&nbsp;
-[![Articles](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/andpeicunha)
-&nbsp;
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-2DB540?style=for-the-badge&labelColor=whatsapp&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511977373258&text=Olá%20André!%20Vi%20seu%20perfil%20no%20Github%20e%20gostaria%20de%20entrar%20em%20contato%20com%20você)](https://api.whatsapp.com/send?phone=5511977373258&text=Olá%20André!%20Vi%20seu%20perfil%20no%20Github%20e%20gostaria%20de%20entrar%20em%20contato%20com%20você)
-[![Portfólio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://portfolio-andrepeixoto.vercel.app)
-&nbsp;-->
-
-<!--
-&nbsp;
-[![Portfólio - Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/andrepeixoto3f5f)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-2DB540?style=for-the-badge&labelColor=whatsapp&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511953121823&text=Olá%20Júlio!%20Vi%20seu%20perfil%20no%20Github%20e%20gostaria%20de%20entrar%20em%20contato%20com%20você)](https://api.whatsapp.com/send?phone=5511953121823&text=Olá%20Júlio!%20Vi%20seu%20perfil%20no%20Github%20e%20gostaria%20de%20entrar%20em%20contato%20com%20você)&nbsp;
--->
-
 ```js
 const importantLinks = {
-   📒 Dev.to: 'https://dev.to/andpeicunha',
-   👨🏻‍💻 Portfolio: 'https://portfolio-andrepeixoto.vercel.app',
-   👋 Email: 'andrepeixoto@gmail.com',
+	'💼 LinkedIn': 'https://www.linkedin.com/in/andpeicunha',
+	'👨🏻‍💻 Portfolio': 'https://portfolio-andrepeixoto.vercel.app',
+	'👋 Email': 'andrepeixoto@gmail.com',
 }
 ```
 
