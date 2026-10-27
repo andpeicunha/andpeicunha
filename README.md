@@ -60,24 +60,6 @@ Minhas principais áreas são plataformas frontend, microfrontends, Design Syste
 | **Infrastructure and Cloud** | Kubernetes, AWS, Azure, GCP, Vercel |
 | **AI Engineering** | MCP, AI agents, agent skills, governed development workflows |
 
-## Selected work
-
-### Frontend platforms
-
-Architecture for shared frontend platforms. This includes independent modules, reusable foundations, centralized authentication, and clear contracts between teams.
-
-### Identity and access
-
-Authentication and authorization systems using SSO, RBAC, Keycloak, BFFs, and service integrations.
-
-### Developer experience
-
-Scaffolds, CI/CD, Design System integrations, and documented architecture that help teams deliver with less repeated work.
-
-### AI engineering
-
-MCP integrations, plugins, and agent instructions that connect AI tools to engineering standards and Design System components.
-
 <!--
 ## 📚 Projects: <br/>
 
